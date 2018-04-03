@@ -1,4 +1,5 @@
 # Before you start the course
+![alt text](../img/ovrview.png)
 
 ## What Will I Learn?
 * Real-world skills to build real-world websites: professional, beautiful and truly responsive websites
@@ -75,3 +76,13 @@ Basically, if you are a master of HTML5 and CSS3, if you build the most beautifu
 - How to get a job on [mostqal](https://mostaql.com/u/BnAzmi) as a front end web devloper
 
 - Build your [protopfolio](https://bnazmi.github.io/)
+
+### For Everyone:
+
+- Install [Visual Studio Code](https://code.visualstudio.com/Download) - download the file or click "Build from source"
+- Install [Chrome](https://www.google.com/chrome/)
+
+### [VsCode plugins](https://marketplace.visualstudio.com/)
+-  HTML Snippets
+-  CSS Formatter
+-  Live Server
