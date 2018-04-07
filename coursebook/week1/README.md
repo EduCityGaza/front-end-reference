@@ -5,7 +5,7 @@ HTML+CSS Tutorial
 
 
 ## Table of Contents
- * [HTML](https://github.com/cassidoo/HTML-CSS-Tutorial#html-time-lets-go)
+ * [HTML](#html)
 	* Editors
 	* Tag Structure
 	* Text Structure
@@ -21,7 +21,7 @@ HTML+CSS Tutorial
 		* Text Styles
 	* The `<head>` tag
 	* Putting it all together so far
- * [CSS](https://github.com/cassidoo/HTML-CSS-Tutorial#css-is-magical-and-now-youre-gonna-learn-it)
+ * [CSS](#css)
 	* Classes and IDs and other Segregation
 		* Classes
 		* IDs
