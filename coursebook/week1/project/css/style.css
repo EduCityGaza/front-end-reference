@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: green;
+}
+
+.continer {
+    background-color: gainsboro;
+    width: 70%;
+    
+    display: inline-block;
+}
+
+.sidebar  {
+    background-color: dodgerblue;
+    width: 30%;
+    height: 100vh;
+    float: right;
+}
+
+.auther img{
+    width: 100px;
+    height: auto;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+span {
+    color: red;
+    font-size: 30px;
+}
+
+.continer p {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.sidebar a {
+    display: block;
+}
